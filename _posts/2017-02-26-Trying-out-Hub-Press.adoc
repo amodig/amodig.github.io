@@ -1,0 +1,4 @@
+= Trying out HubPress
+:hp-tags: HubPress, Blog, Open Source,
+
+I decided to try out a fairly new blogging platform which makes it easy to post static content written in link:http://asciidoctor.org/docs/what-is-asciidoc/[AsciiDoc] on GitHub Pages. Let's see how this works. I'm planning to write about general data science and other technical stuff, but it may replace my link:https://thoughtwisp.wordpress.com/[WordPress blog] -- which I haven't updated in a long time -- for musings in film, music and art.
