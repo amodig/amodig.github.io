@@ -5,10 +5,15 @@
     "branch": "master"
   },
   "site": {
-    "title": "Musings about data science",
+    "title": "The Thoughtwisp",
+    "description": "Musings about data science, films, music and art.",
+    "googleAnalytics": "UA-92662766-1",
     "disqus": "thoughtwisp"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "arttu.modig@gmail.com",
+    "github": "amodig"
+  },
   "theme": {
     "name": "casper"
   }
