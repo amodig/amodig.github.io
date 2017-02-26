@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "Musings about data science"
+    "title": "Musings about data science",
+    "disqus": "thoughtwisp"
   },
   "socialnetwork": {},
   "theme": {
