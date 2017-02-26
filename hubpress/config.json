@@ -12,7 +12,9 @@
   },
   "socialnetwork": {
     "email": "arttu.modig@gmail.com",
-    "github": "amodig"
+    "twitter": "https://twitter.com/arttumodig",
+    "googleplus": "https://plus.google.com/+ArttuModig",
+    "github": "https://github.com/amodig/"
   },
   "theme": {
     "name": "casper"
