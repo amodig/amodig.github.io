@@ -4,7 +4,11 @@
     "repositoryName": "amodig.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Musings about data science"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
